@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "nama_lengkap": "roynadu",
+        "tempat_lahir": "mamuju",
+        "tanggal_lahir": "2025-06-13",
+        "alamat": "makassar",
+        "no_hp": "081347018612",
+        "email": "randiroyandi@gmail.com",
+        "pendidikan_terakhir": "smk"
+      },
+      {
+        "nama_lengkap": "ayaya",
+        "tempat_lahir": "mkassay",
+        "tanggal_lahir": "2025-06-21",
+        "alamat": "makassar",
+        "no_hp": "081347018612",
+        "email": "main@gmail.com",
+        "pendidikan_terakhir": "sma"
+      }
+    ]
+  }
+  
